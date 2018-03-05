@@ -1,0 +1,13 @@
+app.cfg
+__pycache__
+*.pyc
+.cache/
+metrics/
+#virtualenv
+bin/
+lib/
+include/
+local/
+share/
+pip-selfcheck.json
+venv/
