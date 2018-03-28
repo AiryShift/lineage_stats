@@ -1,11 +1,17 @@
 To set up:
 
 0. Install postgres
-1. ```
+
+1.
+
+```
 $ createuser stats
 $ createdb stats
 ```
-2. ```
+
+2.
+
+```
 $ psql stats
 stats=# \password stats
 ...
